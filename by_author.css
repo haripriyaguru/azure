@@ -1,0 +1,10 @@
+.woof_authors li{
+    margin-top:7px !important;
+    list-style-type: none !important;
+}
+
+ul.woof_authors{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
